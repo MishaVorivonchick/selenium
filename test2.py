@@ -1,2 +1,1 @@
-print('fog'
-      '')
+print('fog')
